@@ -1,0 +1,23 @@
+
+
+	1.  D:\CODINGS\DJANGO\Projects\First
+
+	2.  D:\CODINGS\DJANGO\Projects\First\mkdir src
+
+	3. D:\CODINGS\DJANGO\Projects\First\python -m venv
+
+	4. D:\CODINGS\DJANGO\Projects\First\venv
+
+	5. D:\CODINGS\DJANGO\Projects\First\Scripts
+	 
+	6. D:\CODINGS\DJANGO\Projects\First\Scripts\activate
+
+	7. (venv) D:\CODINGS\DJANGO\Projects\First\Scripts\
+	
+	8. (venv) D:\CODINGS\DJANGO\Projects\First\Scripts\cd..
+
+	9. (venv) D:\CODINGS\DJANGO\Projects\First\cd..
+
+	10. (venv) D:\CODINGS\DJANGO\Projects\cd src
+	
+	11. (venv) D:\CODINGS\DJANGO\Projects\First\main.py
